@@ -1,0 +1,12 @@
+{
+  "sourceFixtures": 2,
+  "shapeAndSourceCases": 16,
+  "normalizationChecks": 2,
+  "offerInheritance": true,
+  "csvRoundTrip": true,
+  "currentSchemaRejectsField": true,
+  "proposedSchemaAcceptsField": true,
+  "existingRowRemainsValid": true,
+  "upstreamCodeExecuted": false,
+  "repositoryCSVsChanged": false
+}

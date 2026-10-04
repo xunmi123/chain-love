@@ -1,0 +1,10 @@
+{
+  "name": "@filoz/synapse-react",
+  "version": "0.5.0",
+  "peerDependencies": {
+    "viem": "2.x",
+    "wagmi": "3.x",
+    "@wagmi/core": "3.x",
+    "@tanstack/react-query": "5.x"
+  }
+}
