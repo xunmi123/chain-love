@@ -1,0 +1,198 @@
+{
+  "gnosis": {
+    "base": "85f8dc06577d7d90dba7e3a73c29e195aa549fa2",
+    "target": "docs/tools/RPC Providers/README.md",
+    "numstat": "10\t0\tdocs/tools/RPC Providers/README.md",
+    "full_current_tree_verified": true,
+    "original_file_bytes_preserved": true,
+    "internal_model_text_removed": true,
+    "diff_check": "passed",
+    "apply_and_reverse": "passed",
+    "external_pr": 881,
+    "external_owner": "Adisaok",
+    "external_already_simplified": true,
+    "external_link_could_not_be_verified": "https://www.chain.love/gnosis",
+    "build": "passed",
+    "frozen_lockfile_install": "passed",
+    "node": "24.20.0",
+    "pnpm": "11.20.0",
+    "browser_target_preview": "passed",
+    "generated_llms_restored": true,
+    "build_history": "local Git metadata snapshot; exact upstream source tree verified",
+    "external_link_status": 404
+  },
+  "cronos": {
+    "base": "d3f8abd49fa9cddc167786d4f44d45bb7a84a1f4",
+    "target": "for-dapp-developers/useful-projects-on-cronos/overview-of-dev-tools-and-integrations.md",
+    "target_identical_to_original_submission_base": true,
+    "numstat": "1\t1\tfor-dapp-developers/useful-projects-on-cronos/overview-of-dev-tools-and-integrations.md",
+    "inserted_bytes": 493,
+    "original_file_bytes_preserved": true,
+    "row_cells": [
+      "Chain.Love",
+      "Directory for discovering Cronos EVM API and RPC providers and service plans.",
+      "infrastructure directory",
+      "https://www.chain.love/https://cronos.chain.love/toolbox/apis",
+      "Use for discovery; confirm Cronos EVM support, required JSON-RPC methods, archive access and current terms with the provider. Check Cronos POS and zkEVM support separately."
+    ],
+    "links": [
+      "https://www.chain.love/",
+      "https://cronos.chain.love/toolbox/apis"
+    ],
+    "diff_check": "passed",
+    "apply_and_reverse": "passed",
+    "pending_pr_variants": [
+      {
+        "pr": 336,
+        "title": "update related domains to cronos.com",
+        "state": "open",
+        "head": "92f35c40596be6faa4aaae3d0975e7c077817258",
+        "variant": "cronos-after-pr-336.patch",
+        "all_pending_head_bytes_preserved": true,
+        "format": "HTML",
+        "variant_scope": "one Chain.Love row only",
+        "variant_apply_and_reverse": "passed",
+        "current_whole_table_patch_applies_to_pending_head": true
+      },
+      {
+        "pr": 335,
+        "title": "Add Codex to dev tools and integrations",
+        "state": "open",
+        "head": "b751076953a80140576f4434f96b9b7a92e84012",
+        "variant": "cronos-after-pr-335.patch",
+        "all_pending_head_bytes_preserved": true,
+        "format": "HTML",
+        "variant_scope": "one Chain.Love row only",
+        "variant_apply_and_reverse": "passed",
+        "current_whole_table_patch_applies_to_pending_head": false
+      },
+      {
+        "pr": 334,
+        "title": "Add Sentio Doc to Data Index",
+        "state": "open",
+        "head": "a9f6222f3ef314950b06616b4faf74b64da1b60b",
+        "variant": "cronos-after-pr-334.patch",
+        "all_pending_head_bytes_preserved": true,
+        "format": "HTML",
+        "variant_scope": "one Chain.Love row only",
+        "variant_apply_and_reverse": "passed",
+        "current_whole_table_patch_applies_to_pending_head": false
+      },
+      {
+        "pr": 333,
+        "title": "Update Covalent details",
+        "state": "open",
+        "head": "42ba999fa3af757f011540ce199a75531cf0801d",
+        "variant": "cronos-after-pr-333.patch",
+        "all_pending_head_bytes_preserved": true,
+        "format": "HTML",
+        "variant_scope": "one Chain.Love row only",
+        "variant_apply_and_reverse": "passed",
+        "current_whole_table_patch_applies_to_pending_head": false
+      },
+      {
+        "pr": 305,
+        "title": "Added content for SupraOracles price feeds and VRFs for cronos ",
+        "state": "open",
+        "head": "8ed4f963106b1b3edee0f0dbdc0accb156858cc8",
+        "variant": "cronos-after-pr-305.patch",
+        "all_pending_head_bytes_preserved": true,
+        "format": "Markdown",
+        "variant_scope": "one Chain.Love row only",
+        "variant_apply_and_reverse": "passed",
+        "current_whole_table_patch_applies_to_pending_head": false
+      }
+    ],
+    "native_gitbook_build": "not available; legacy VuePress build does not cover root source",
+    "remote_ci": "not triggered",
+    "external_pr": "not created",
+    "browser_table_preview": "passed",
+    "helper_checks": [
+      {
+        "file": "cronos-base.md",
+        "unchanged_bytes_preserved": true
+      },
+      {
+        "file": "cronos-pr-305-head.md",
+        "unchanged_bytes_preserved": true
+      },
+      {
+        "file": "cronos-pr-333-head.md",
+        "unchanged_bytes_preserved": true
+      },
+      {
+        "file": "cronos-pr-334-head.md",
+        "unchanged_bytes_preserved": true
+      },
+      {
+        "file": "cronos-pr-335-head.md",
+        "unchanged_bytes_preserved": true
+      },
+      {
+        "file": "cronos-pr-336-head.md",
+        "unchanged_bytes_preserved": true
+      }
+    ]
+  },
+  "public_api": {
+    "gnosis": {
+      "returned_rows": 153,
+      "pagination": {
+        "mode": "group",
+        "page": 1,
+        "pageSize": 100,
+        "totalPages": 1,
+        "totalProviders": 42,
+        "totalOffers": 153
+      },
+      "networks": [
+        "gnosis"
+      ],
+      "chain_values": [
+        "mainnet",
+        "testnet"
+      ],
+      "provider_count_in_returned_rows": 42,
+      "generated_at": "2026-10-21T06:29:40.990Z",
+      "provider_runtime_tested": false
+    },
+    "cronos": {
+      "returned_rows": 73,
+      "pagination": {
+        "mode": "group",
+        "page": 1,
+        "pageSize": 100,
+        "totalPages": 1,
+        "totalProviders": 41,
+        "totalOffers": 73
+      },
+      "networks": [
+        "cronos"
+      ],
+      "chain_values": [
+        "mainnet"
+      ],
+      "provider_count_in_returned_rows": 41,
+      "generated_at": "2026-10-21T06:29:44.491Z",
+      "provider_runtime_tested": false
+    }
+  },
+  "links": [
+    {
+      "url": "https://www.chain.love/",
+      "result": "200 https://www.chain.love/"
+    },
+    {
+      "url": "https://gnosis.chain.love/toolbox/apis",
+      "result": "200 https://gnosis.chain.love/toolbox/apis"
+    },
+    {
+      "url": "https://cronos.chain.love/toolbox/apis",
+      "result": "200 https://cronos.chain.love/toolbox/apis"
+    },
+    {
+      "url": "https://www.chain.love/gnosis",
+      "result": "404 https://www.chain.love/gnosis"
+    }
+  ]
+}

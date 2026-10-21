@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.chain.love/",
+    "result": "200 https://www.chain.love/"
+  },
+  {
+    "url": "https://gnosis.chain.love/toolbox/apis",
+    "result": "200 https://gnosis.chain.love/toolbox/apis"
+  },
+  {
+    "url": "https://cronos.chain.love/toolbox/apis",
+    "result": "200 https://cronos.chain.love/toolbox/apis"
+  },
+  {
+    "url": "https://www.chain.love/gnosis",
+    "result": "404 https://www.chain.love/gnosis"
+  }
+]
